@@ -1,4 +1,4 @@
-869bdbe614561efb47ad705b45aad13a *DESCRIPTION
+48e115537741edfcdf05267c0d240df6 *DESCRIPTION
 44cdebca2e42ddf8c0f143556cb54938 *NAMESPACE
 0ae32d32e715a6f004911bb2e5500997 *R/basic.qc.R
 7b877a66a20d8ba822345f315da5bd3e *R/ctl.circle.R
@@ -34,7 +34,7 @@ d41d8cd98f00b204e9800998ecf8427e *inst/STATUS.txt
 c370415e49a24d8ba788731da5e37852 *inst/TODO.txt
 c31e51e628ad41ea3df8d8412fb16dbb *inst/doc/manual.R
 6bf5485fbacc539d84aa5a213d786241 *inst/doc/manual.Rnw
-ad066e3dc8aba66817a93dd3cfc58e0f *inst/doc/manual.pdf
+35de1d25bbac7235443b50e025d89ff1 *inst/doc/manual.pdf
 8977361f7b209dfd67d8c5f67242f0a6 *man/ath.churchill.Rd
 158c50730b9d275718349395798084d9 *man/ath.metabolites.Rd
 11eb4fad2b3cf8fb4a3b1637b0657544 *man/ath.result.Rd
@@ -76,7 +76,7 @@ fa7d27f072dfe0debaae38656d78e837 *src/correlation.h
 968b3b2ec7977b73dc1ed38bc5724b13 *src/ctl.h
 0006c74a309310bbcc212f738d8385b5 *src/ctlio.c
 a82fb1aad3f6cc90719e38cdb5892472 *src/ctlio.h
-f6b06b2108fe7c5f2d8de86adfca5b43 *src/mapctl.c
+d2ab9a67ee35184ade68506f8881c31a *src/mapctl.c
 52d58802e5b8fdef903c0f5e7ea64390 *src/mapctl.h
 f3881b08f81bb08738788e5f0123adb6 *src/matrix.c
 b1a67a9185e1b7d4bcf911e36f8e40d6 *src/matrix.h
@@ -94,6 +94,6 @@ dec7642a953b943c722f7038fa90030b *src/vector.h
 8a891cc75b8f755f22ab1f1c458271bc *tests/GeneExpression_Yeast_RBrem.R
 f023a7d115c9ccf5a482d86242b8b317 *tests/GeneExpression_Yeast_RBrem.csvr
 2cabb02b51c9b5e07e899c684ceca590 *tests/test_ctl_long.R
-f98a7461d8b1537adb5906357f45fa14 *tests/test_openmp.R
+eae2f7a05a3db363ef9edc4c7e20a237 *tests/test_openmp.R
 6bf5485fbacc539d84aa5a213d786241 *vignettes/manual.Rnw
 e2aed6d35e66545b798296a422674ee0 *vignettes/prepare.bat
