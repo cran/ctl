@@ -1,6 +1,6 @@
 Package: ctl
-Version: 1.0.0-7
-Date: 2022-02-09
+Version: 1.0.0-8
+Date: 2023-01-16
 Title: Correlated Trait Locus Mapping
 Author: Danny Arends <Danny.Arends@gmail.com>, Yang Li, Gudrun A Brockmann, 
   Ritsert C Jansen, Robert W Williams, and Pjotr Prins
@@ -13,6 +13,6 @@ Encoding: UTF-8
 ByteCompile: true
 License: GPL-3
 NeedsCompilation: yes
-Packaged: 2022-02-09 09:20:03 UTC; Arends
+Packaged: 2023-01-16 13:47:42 UTC; rqdt9
 Repository: CRAN
-Date/Publication: 2022-02-09 09:40:06 UTC
+Date/Publication: 2023-01-16 14:10:03 UTC

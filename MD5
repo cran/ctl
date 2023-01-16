@@ -1,4 +1,4 @@
-172dc6da7dd4a0f8e0ad3958e529a99e *DESCRIPTION
+3d57934753e2e2c0fb4d31b9ca93a13a *DESCRIPTION
 245896a9ba2a81bd174715f90013cf72 *NAMESPACE
 af179a4cb7e0b41d69cdcefa6e9d480c *R/basic.qc.R
 7b877a66a20d8ba822345f315da5bd3e *R/ctl.circle.R
@@ -23,7 +23,7 @@ cfd58c2df8e8c3950038ab9a316ac724 *R/ctl.utils.R
 5828cac30823d86cf1257439625dfc22 *R/plot.traits.R
 e0998048f612e47b05603eec8ee103c4 *R/qtl.scan.R
 8d8f908600059c364633e2e31bb81cc4 *R/zzz.R
-96d2f56c4adfd80998c2a4624e83f075 *build/vignette.rds
+4e240b7f0c802491ca24cf4de829b81b *build/vignette.rds
 d5c0f84a93d6cff63a2d09be2c1e8ede *data/ath.churchill.RData
 d14c25e0db8c81b8d166add049ca9a29 *data/ath.metabolites.RData
 cb6f6916e786d104f863256e41131eb3 *data/ath.result.RData
@@ -35,7 +35,7 @@ d41d8cd98f00b204e9800998ecf8427e *inst/STATUS.txt
 149a71828e1c08d946a859ebf4f2633a *inst/TODO.txt
 075bdcabf1e0234418cd1315f27de2bf *inst/doc/manual.R
 e6d67fb7cd148eeb293334707c37276c *inst/doc/manual.Rnw
-6df2deea9930bb9f2c987b75479bda82 *inst/doc/manual.pdf
+f27eba03887fdc88e3a1d94145e75ce5 *inst/doc/manual.pdf
 a5b2390a541c6e92765ca6c966c08ae3 *man/ath.churchill.Rd
 bc996ff0c9bcf0d2684d53a14e3c1953 *man/ath.metabolites.Rd
 7feef6f8fe3e7dd975a71819173ba2be *man/ath.result.Rd
@@ -75,7 +75,7 @@ d60d893d6b0d7e171dbafe2028f0c47e *src/R_init.h
 26f18c5702c2a2027965b179db38af0f *src/correlation.c
 fa7d27f072dfe0debaae38656d78e837 *src/correlation.h
 7b024fb99a658726e4fb6e99888145e8 *src/ctl.h
-0006c74a309310bbcc212f738d8385b5 *src/ctlio.c
+0461d554b5c8a2243537faa4f99e993e *src/ctlio.c
 a82fb1aad3f6cc90719e38cdb5892472 *src/ctlio.h
 d2ab9a67ee35184ade68506f8881c31a *src/mapctl.c
 52d58802e5b8fdef903c0f5e7ea64390 *src/mapctl.h
@@ -88,8 +88,8 @@ d38cea1d6ddd3934282bfabebc3619a3 *src/permutation.h
 fbac82aa47f9b62d59f13251ee2b39c9 *src/sort.c
 aec340552e4fdd14279744bacdb8d966 *src/sort.h
 ffaf1b240bf1a9e99a913ab4fc418dea *src/structs.c
-d2ee96dc3217d915c55c81e6888ac742 *src/structs.h
-7ecbe28312123c46ec52c79f31db9601 *src/vector.c
+81c6450a4d5a0f95cb4f018c651393df *src/structs.h
+9e16a919e0ddd7e8673a5d4e0b037728 *src/vector.c
 dec7642a953b943c722f7038fa90030b *src/vector.h
 134ca56d1cbbd606906138e66b232672 *tests/GeneExpression_Yeast_Annotation.txt
 91bd041b5821a2bed653b7c296cea90a *tests/GeneExpression_Yeast_RBrem.R
