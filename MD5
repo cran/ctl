@@ -1,4 +1,4 @@
-a211705512bf75475f3d70968f9852f3 *DESCRIPTION
+afbfdc01bfd885c79f7bcedddea0761b *DESCRIPTION
 ad89e7e7575cbb7359fd6c21ab1d1aaa *NAMESPACE
 0ae32d32e715a6f004911bb2e5500997 *R/basic.qc.R
 7b877a66a20d8ba822345f315da5bd3e *R/ctl.circle.R
@@ -23,7 +23,7 @@ b0aa0ec8b942c6569f3dd6c1852d8bcd *R/helper.functions.R
 90091d98bd5d1a577aab708aca2f8345 *R/plot.traits.R
 98c19d3eefe37b576c7a66ed00bb4ac0 *R/qtl.scan.R
 e440bcc6dbacd2b89d8b6d4d513b8f6a *R/zzz.R
-1d6aeb96983771e180ee9f9656b7b164 *build/vignette.rds
+1dd4ca93a7b123a092d40d5ea99951da *build/vignette.rds
 d5c0f84a93d6cff63a2d09be2c1e8ede *data/ath.churchill.RData
 d14c25e0db8c81b8d166add049ca9a29 *data/ath.metabolites.RData
 cb6f6916e786d104f863256e41131eb3 *data/ath.result.RData
@@ -35,7 +35,7 @@ d41d8cd98f00b204e9800998ecf8427e *inst/STATUS.txt
 c370415e49a24d8ba788731da5e37852 *inst/TODO.txt
 c31e51e628ad41ea3df8d8412fb16dbb *inst/doc/manual.R
 6bf5485fbacc539d84aa5a213d786241 *inst/doc/manual.Rnw
-095adcdef28d8063e6188fc1e0d5037a *inst/doc/manual.pdf
+0912b5341d4f650b42175b2d5c487ef4 *inst/doc/manual.pdf
 8977361f7b209dfd67d8c5f67242f0a6 *man/ath.churchill.Rd
 158c50730b9d275718349395798084d9 *man/ath.metabolites.Rd
 11eb4fad2b3cf8fb4a3b1637b0657544 *man/ath.result.Rd
@@ -77,7 +77,7 @@ fa7d27f072dfe0debaae38656d78e837 *src/correlation.h
 7b024fb99a658726e4fb6e99888145e8 *src/ctl.h
 836fa01ea6d90ff04af00d35b21e0862 *src/ctlio.c
 a82fb1aad3f6cc90719e38cdb5892472 *src/ctlio.h
-42203cbfb58281e03534cc32acdf6e0f *src/mapctl.c
+413ab61f5d5ba03b4475a3ac5d017893 *src/mapctl.c
 52d58802e5b8fdef903c0f5e7ea64390 *src/mapctl.h
 d4200e5f0a537f0a0e0a7aff943325f3 *src/matrix.c
 b1a67a9185e1b7d4bcf911e36f8e40d6 *src/matrix.h
